@@ -2,3 +2,6 @@
 [submodule "apex/apex_specialist_badge_org"]
 	path = apex/apex_specialist_badge_org
 	url = https://github.com/josephbjr3/apex_specialist_badge_org
+[submodule "apex/apex_for_admins_project"]
+	path = apex/apex_for_admins_project
+	url = https://github.com/josephbjr3/apex_for_admins_project
