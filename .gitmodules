@@ -5,6 +5,6 @@
 [submodule "apex/apex_for_admins_project"]
 	path = apex/apex_for_admins_project
 	url = https://github.com/josephbjr3/apex_for_admins_project
-[submodule "apex/personal_dev_org"]
-	path = apex/personal_dev_org
+[submodule "apex/--force"]
+	path = apex/--force
 	url = https://github.com/josephbjr3/personal_dev_org.git
